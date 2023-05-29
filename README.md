@@ -16,3 +16,4 @@ Please follow these steps BEFORE you come to class:
 6. Please install the stm packages in R.
 7. Install the rhdf5 package in R. It has to be through Bioconductor and it takes some time, so plan accordingly. Check this [link](https://bioconductor.org/packages/release/bioc/html/rhdf5.html) for more information.
 8. Download the Functions2ProcessIVW.R file to your computer and remember its location. You can find it in this GitHub site.
+9. Make sure you can access our Google Colab machine [here](https://colab.research.google.com/drive/17juHueFZlHjOCGuMWgOgMthLu7grAhCQ?usp=sharing).
