@@ -5,7 +5,7 @@ Material for the class "Implementing a Visual STM" at the University of Oxford (
 In this class/workshop we will go over the foundations and implementation of a Visual Structural Topic Model for the detection of topics/themes in images. We will cover some "image basics", detail the steps necessary to create a Document-Feature matrix for images (á la DTM, for texts), and get to see those steps in action using images from the Black Lives Matter 2014 protests published by prominent outlets in their Twitter feeds.
 
 ## A to-do list before the class
-We will use the a Google Colab machine that has some code and material pre-loaded. The link for it is: .
+We will use the a Google Colab machine that has some code and material pre-loaded.
 Please follow these steps BEFORE you come to class:
 
 1. Create a Google Drive account
